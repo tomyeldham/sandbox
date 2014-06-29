@@ -14,6 +14,3 @@ Git doesn't have the update command so, to pull updated from a branch, you do ``
 ``git tag -a x.x.x -m 'message'```
 
 ``git push --tags``
-
-##some other stuff
-and more
