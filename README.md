@@ -7,4 +7,4 @@ Git doesn't have the update command so, to pull updated from a branch, you do ``
 
 ##merge branch
 ``git checkout <target_branch>``
-``git merger <working_branch>``
+``git merge <working_branch>``
