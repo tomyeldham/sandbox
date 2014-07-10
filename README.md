@@ -33,9 +33,9 @@ git commit
 to add more files. Then to merge back into the development branch and remove your custom feature branch:
 
 ``
-git pull origin develop
-git checkout develop
-git merge some-feature
-git push
+git pull origin develop; 
+git checkout develop; 
+git merge some-feature; 
+git push; 
 git branch -d some-feature
 ``
